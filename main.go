@@ -1,3 +1,5 @@
+//это комментарий
+
 package main
 
 import (
